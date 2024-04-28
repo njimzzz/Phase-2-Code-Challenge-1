@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Table {
+  width : 68%;
+  border-collapse: collapse;
+  margin-left: auto;
+ 
+  padding : 50px;
+  font-size: 1.8vh;
+  
+}
+
+.Table th,
+.Table td {
+  padding: 6px;
+  border: 1px solid #000;
+}
+
+.Table th {
+  font-weight: bold;
+  text-align: center;
+}
+
+.Header {
+  width: 100%;
+  background-color: blueviolet;
+  color: #fff;
+  top: 0;
+  overflow: hidden; 
+}
+
+.SearchAndAddExpense {
+  padding: 10px;
+}
+
+.Table td {
+  max-height: 400px; 
+  overflow: auto; 
+}
+
