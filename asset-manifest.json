@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Phase-2-Code-Challenge-1/static/css/main.c8401fb6.css",
+    "main.js": "/Phase-2-Code-Challenge-1/static/js/main.b7e7c046.js",
+    "static/js/453.d3943c81.chunk.js": "/Phase-2-Code-Challenge-1/static/js/453.d3943c81.chunk.js",
+    "static/media/logo.svg": "/Phase-2-Code-Challenge-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Phase-2-Code-Challenge-1/index.html",
+    "main.c8401fb6.css.map": "/Phase-2-Code-Challenge-1/static/css/main.c8401fb6.css.map",
+    "main.b7e7c046.js.map": "/Phase-2-Code-Challenge-1/static/js/main.b7e7c046.js.map",
+    "453.d3943c81.chunk.js.map": "/Phase-2-Code-Challenge-1/static/js/453.d3943c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8401fb6.css",
+    "static/js/main.b7e7c046.js"
+  ]
+}
